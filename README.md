@@ -228,3 +228,76 @@ Region
 
 ## Tableau Public
 [ published Tableau Public Dashboard View.](https://public.tableau.com/views/BusinessSalesTrendAnalysisUsingTableauTASK-9_17897153426540/SUPERSTORESALESANALYSIS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
+###Task 5
+
+
+# Monthly Sales Distribution by Department – Box Plot
+
+## Project Overview
+
+This project analyzes the distribution of monthly sales across different departments using Tableau Public. A Box and Whisker Plot is used to compare median sales, variation, quartiles, and outliers between departments.
+
+## Dataset
+
+* Dataset: Statistics Practice Employee Sales Dataset
+* File Format: CSV
+* Total Records: 180 employees
+* Tool Used: Tableau Public
+
+## Important Fields
+
+* Employee ID
+* Department
+* Monthly Sales K
+* Annual Salary
+* Experience Years
+* Performance Score
+* Satisfaction Score
+* City
+
+## Tableau Steps
+
+1. Uploaded the CSV dataset into Tableau Public.
+2. Dragged `Monthly Sales K` into the Rows shelf.
+3. Selected **Analysis** and disabled **Aggregate Measures**.
+4. Selected **Box-and-Whisker Plot** from Show Me.
+5. Dragged `Department` into the Columns shelf.
+6. Created separate Box Plots for every department.
+
+## Departments Analyzed
+
+* Finance
+* HR
+* IT
+* Marketing
+* Operations
+* Sales
+
+## Tableau Public Visualization
+
+[View the Tableau Box Plot](https://public.tableau.com/views/MonthlySalesDistributionbyDepartmentBoxPlot_17869556175220/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## Business Insights
+
+1. Finance has the highest median monthly sales of approximately 321K.
+2. Sales has a median monthly sales value of approximately 317K.
+3. Operations also performs strongly, with a median of approximately 313K.
+4. Marketing contains the highest outlier, reaching approximately 913K.
+5. HR has the lowest median monthly sales among the departments, at approximately 279K.
+6. Every department contains high-value outliers, indicating exceptional employee sales performances.
+
+## Business Recommendations
+
+1. The sales strategies followed by Finance, Sales, and Operations should be studied and shared with other departments.
+2. High-performing outlier employees should be identified and rewarded.
+3. HR, IT, and Marketing teams should receive targeted sales training and performance support.
+
+## Final Output
+
+A set of Box Plots comparing the distribution of Monthly Sales across different Departments.
+
+## Conclusion
+
+The Box Plot clearly shows differences in monthly sales distribution between departments. It helps identify median performance, sales variability, and unusually high-performing employees, supporting better business and employee-performance decisions.
