@@ -295,6 +295,57 @@ The Tableau Tree Map provides a clear visual representation of business sales pe
 https://public.tableau.com/app/profile/mohamed.haroon6969/viz/task-8_17895380179170/Dashboard1
 
 
+### Task 7
+
+# Business Performance Analysis Using Tableau
+
+## Project Overview
+
+This project analyzes business performance using Tableau. The dashboard provides a visual analysis of the relationship between Sales and Order Count using a Scatter Plot, along with sales trends over time.
+
+## Dataset Fields
+
+- Category
+- Order Date
+- Order ID
+- Sales
+- Product Name
+- Region
+- Segment
+- Customer ID
+
+## Visualizations
+
+1. Sales vs Order Count – Scatter Plot
+2. Sales Trend Over Time – Area Chart
+3. Sales by Category – Bar Chart
+4. Sales by Region – Bar Chart
+
+## Key Findings
+
+1. The Scatter Plot shows the relationship between Sales and the number of Orders.
+2. Sales values vary across different orders and categories.
+3. Overall sales show changes over the years.
+4. Some categories and regions contribute more to total sales than others.
+
+## Recommendations
+
+1. Focus on high-performing categories and regions to increase sales through targeted marketing and promotions.
+2. Analyze low-performing areas and improve product selection, pricing, and sales strategies.
+
+## Overall Conclusion
+
+The Tableau dashboard provides a clear visual analysis of business performance using a Scatter Plot and other visualizations. The analysis helps identify the relationship between Sales and Orders, understand sales trends over time, and support better business decision-making.
+
+## Tools Used
+
+- Tableau Public
+- Microsoft Excel
+- Business Sales Dataset
+
+### Dashboard Link
+https://public.tableau.com/app/profile/mohamed.haroon6969/viz/Task7_17914697361260/Dashboard1
+
 ### Task 5
 
 
