@@ -277,7 +277,8 @@ This project analyzes the distribution of monthly sales across different departm
 
 ## Tableau Public Visualization
 
-[View the Tableau Box Plot](https://public.tableau.com/views/MonthlySalesDistributionbyDepartmentBoxPlot_17869556175220/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View the Tableau Box Plot]
+[(https://public.tableau.com/views/MonthlySalesDistributionbyDepartmentBoxPlot_17869556175220/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)](https://public.tableau.com/app/profile/mohamed.haroon6969/viz/Task5_17914726958140/Sheet1)
 
 ## Business Insights
 
