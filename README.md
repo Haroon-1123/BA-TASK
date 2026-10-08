@@ -113,3 +113,71 @@ https://public.tableau.com/app/profile/mohamed.haroon6969/viz/Task11_17914417656
 
 
 
+#####Task 10
+Sure machi 👍 **இந்த Task-க்கு direct copy-paste README** இதோ:
+
+```markdown
+### Task 12
+
+# Business Performance Analysis Using Tableau
+
+## Project Overview
+
+This project analyzes business performance using Tableau. The dashboard provides an interactive view of Sales, Category, Sub-Category, Region, Segment, Order Date, and other business-related fields.
+
+## Dataset Fields
+
+- Category
+- City
+- Country
+- Customer ID
+- Customer Name
+- Order Date
+- Order ID
+- Postal Code
+- Product ID
+- Product Name
+- Region
+- Row ID
+- Segment
+- Ship Date
+- Ship Mode
+- State
+- Sub-Category
+- Sales
+
+## Visualizations
+
+1. Sales Performance by Category and Sub-Category – Heat Map
+2. Category Sales – Bubble Chart
+3. Sales Trend Over Time – Line Chart
+4. Sales by Segment – Pie Chart
+
+## Heat Map
+
+The Heat Map uses Category and Sub-Category to display sales performance. Color intensity represents the Sales value, helping identify high-performing and low-performing business categories.
+
+## Key Findings
+
+1. Sales performance varies across different categories and sub-categories.
+2. Some categories contribute significantly more to overall sales than others.
+3. Sales trends change over time, and different customer segments contribute differently to total sales.
+
+## Recommendations
+
+1. Focus marketing and promotional activities on high-performing categories and sub-categories.
+2. Analyze low-performing categories and improve product selection, pricing, and sales strategies.
+
+## Overall Conclusion
+
+The Tableau dashboard provides an interactive overview of business performance using sales, category, sub-category, segment, and time-based analysis. The Heat Map, Bubble Chart, Line Chart, and Pie Chart help identify important sales patterns and support better business decision-making.
+
+## Tools Used
+
+- Tableau Public
+- Microsoft Excel
+- Business Sales Dataset
+
+### Dashboard Link
+
+https://public.tableau.com/app/profile/mohamed.haroon6969/viz/Task10_17914548857380/Dashboard1
