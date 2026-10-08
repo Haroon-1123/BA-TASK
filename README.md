@@ -348,7 +348,7 @@ Total Sales = Price × Quantity
 
 ## Tableau Public Dashboard
 
-[View the Customer Segmentation Dashboard](https://public.tableau.com/app/profile/mohamed.haroon6969/viz/CustomerSegmentationandPurchasingAnalysisDashboard_17863489240040/CustomerSegmentationandPurchasingAnalysisDashboard)
+[View the Customer Segmentation Dashboard][(https://public.tableau.com/app/profile/mohamed.haroon6969/viz/CustomerSegmentationandPurchasingAnalysisDashboard_17863489240040/CustomerSegmentationandPurchasingAnalysisDashboard)](https://public.tableau.com/app/profile/mohamed.haroon6969/viz/Task4_17914715311480/CustomerSegmentationandPurchasingAnalysisDashboard)
 
 ## Business Insights
 
