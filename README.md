@@ -113,11 +113,7 @@ https://public.tableau.com/app/profile/mohamed.haroon6969/viz/Task11_17914417656
 
 
 
-#####Task 10
-Sure machi 👍 **இந்த Task-க்கு direct copy-paste README** இதோ:
-
-```markdown
-### Task 12
+###Task 10
 
 # Business Performance Analysis Using Tableau
 
