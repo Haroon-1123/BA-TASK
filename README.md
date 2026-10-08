@@ -229,6 +229,71 @@ Region
 ## Tableau Public
 [ published Tableau Public Dashboard View.](https://public.tableau.com/views/BusinessSalesTrendAnalysisUsingTableauTASK-9_17897153426540/SUPERSTORESALESANALYSIS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+### Task 8
+
+# Business Category Analysis Using Tableau
+
+## Project Overview
+
+This project analyzes business category performance using a Tree Map in Tableau. The visualization provides an interactive view of Sales across different Categories and Sub-Categories.
+
+## Dataset Fields
+
+- Category
+- Sub-Category
+- Sales
+- City
+- Country
+- Customer ID
+- Customer Name
+- Order Date
+- Order ID
+- Product ID
+- Product Name
+- Region
+- Segment
+- Ship Date
+- Ship Mode
+- State
+
+## Visualization
+
+1. Sales by Category and Sub-Category – Tree Map
+
+## Tree Map Analysis
+
+- Category is used to group the products.
+- Sub-Category is used to display individual blocks.
+- Sales is used to determine the size of each block.
+- Sales is also used for colour intensity.
+- Larger blocks represent higher sales contribution.
+
+## Key Findings
+
+1. Sales contribution differs across different product categories.
+2. Technology contains high-performing sub-categories such as Phones and Machines.
+3. Furniture and Office Supplies also contribute significantly to overall sales.
+4. Some sub-categories have larger blocks, indicating higher sales.
+5. Sales performance varies between different categories and sub-categories.
+
+## Recommendations
+
+1. Focus marketing and promotions on high-performing categories and sub-categories.
+2. Analyze low-performing sub-categories and improve pricing, product selection, and marketing strategies.
+
+## Overall Conclusion
+
+The Tableau Tree Map provides a clear visual representation of business sales performance across different categories and sub-categories. It helps identify high-performing products and supports better business decision-making.
+
+## Tools Used
+
+- Tableau Public
+- Microsoft Excel
+- Business Sales Dataset
+
+### Dashboard Link
+https://public.tableau.com/app/profile/mohamed.haroon6969/viz/task-8_17895380179170/Dashboard1
+
 
 ### Task 5
 
