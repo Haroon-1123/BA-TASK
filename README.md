@@ -383,3 +383,53 @@ The dashboard shows that female customers, clothing products, cash payments, cus
 ## Author
 
 **Haroon M**
+
+
+### Task 3
+
+# zomato-business-data-visualization-task3
+# Zomato Restaurant Business Analysis Dashboard
+
+## Project Overview
+
+This project presents a business data visualization dashboard created using Tableau Public. The Zomato Restaurants dataset analyzed during Week 2 was used to identify restaurant distribution, popular cuisines, and online delivery trends.
+
+## Dataset
+
+* Dataset: Zomato Restaurants Data
+* Source: Kaggle
+* Total Records: 9,551 restaurants
+* Tool Used: Tableau Public
+
+## Dashboard Visualizations
+
+1. Bar Chart – Top 10 Cities by Number of Restaurants
+2. Pie Chart – Online Delivery Availability
+3. Tree Map – Top 10 Popular Cuisines
+
+## Tableau Public Dashboard
+
+[View the Zomato Business Analysis Dashboard][(https://public.tableau.com/app/profile/mohamed.haroon6969/viz/ZomatoRestaurantBusinessAnalysisDashboard_17854822230950/ZomatoRestaurantBusinessAnalysisDashboard)
+](https://public.tableau.com/app/profile/mohamed.haroon6969/viz/Task3_17914720939490/ZomatoRestaurantBusinessAnalysisDashboard)
+## Business Insights
+
+1. New Delhi has the highest number of restaurants, with 5,473 outlets, making it the largest restaurant market in the dataset.
+
+2. Gurgaon and Noida are the next leading cities, with 1,118 and 1,080 restaurants respectively.
+
+3. North Indian is the most common cuisine category, appearing in 936 restaurant records.
+
+4. Only 2,451 restaurants provide online delivery, while 7,100 restaurants do not provide this facility.
+
+5. Chinese and Fast Food are also popular cuisine categories, with 354 restaurants each.
+
+## Conclusion
+
+The dashboard shows that restaurants are highly concentrated in New Delhi and nearby cities. North Indian cuisine dominates customer food choices. The limited availability of online delivery indicates a potential opportunity for restaurants to expand their digital ordering services.
+
+## Author
+
+**Haroon.M**
+
+
+
